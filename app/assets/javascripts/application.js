@@ -18,3 +18,4 @@
 //= require compile_your_assets
 //= require then_hit_opt_cmd_u
 //= require poem_meta_data
+//= require bootstrap.min
